@@ -1,9 +1,7 @@
 # code-review-tests
 
-This is a test
-
-For code review
+For code-review
 
 Nothing useful here
 
-Go away
+I didn't go away
